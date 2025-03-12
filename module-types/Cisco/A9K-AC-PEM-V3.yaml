@@ -1,0 +1,22 @@
+---
+manufacturer: Cisco
+model: A9K-AC-PEM-V3
+slug: A9K-AC-PEM-V3
+part_number: A9K-AC-PEM-V3
+module-bays:
+  - name: 0/PT0
+    label: 0/PT
+    position: 0
+    description: Simulated Power Tray IDPROM
+  - name: 0/PT1
+    label: 0/PT
+    position: 1
+    description: Simulated Power Tray IDPROM
+  - name: 0/PT2
+    label: 0/PT
+    position: 2
+    description: Simulated Power Tray IDPROM
+  - name: 0/PT3
+    label: 0/PT
+    position: 3
+    description: Simulated Power Tray IDPROM
